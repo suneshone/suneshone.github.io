@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>RSS入门指南</title>
+      <link href="/2023/12/21/RSS%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97/"/>
+      <url>/2023/12/21/RSS%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97/</url>
+      
+        <content type="html"><![CDATA[<h2 id="什么是RSS"><a href="#什么是RSS" class="headerlink" title="什么是RSS"></a>什么是RSS</h2><p>RSS（简易信息聚合）指的是用于发布站点更新的数种 XML 文档格式。当你订阅一个网站的 RSS 摘要时，网站会将 RSS 信息和更新信息发送到一个称为资讯（feed）的 RSS 文档中，因此你无需手动查看所有喜爱的网站就可以获取这些网站的更新动态。</p><h2 id="为什么使用RSS"><a href="#为什么使用RSS" class="headerlink" title="为什么使用RSS"></a>为什么使用RSS</h2><p>RSS 被设计用来展示选定的数据。</p><p>如果没有 RSS，用户就不得不每日都来您的网站检查新的内容。对许多用户来说这样太费时了。通过 RSS feed（RSS 通常被称为 News feed 或 RSS feed），用户们可以使用 RSS 聚合器来更快地检查您的网站更新（RSS 聚合器是用来聚集并分类 RSS feed 的网站或软件）。</p><p>由于 RSS 数据很小巧并可快速加载，它可轻易地被类似移动电话或 PDA 的服务使用。</p><p>拥有相似内容的网站环（Web-rings）可以轻易地在它们的网站共享内容，使这些网站更出色更有价值。</p><h2 id="如何使用RSS"><a href="#如何使用RSS" class="headerlink" title="如何使用RSS"></a>如何使用RSS</h2><h3 id="hexo"><a href="#hexo" class="headerlink" title="hexo"></a>hexo</h3><p>在hexo项目根目录下执行以下命令</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-generator-feed --save</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> 指南 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> RSS </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>版权与许可</title>
       <link href="/2023/12/20/%E7%89%88%E6%9D%83%E4%B8%8E%E8%AE%B8%E5%8F%AF/"/>
       <url>/2023/12/20/%E7%89%88%E6%9D%83%E4%B8%8E%E8%AE%B8%E5%8F%AF/</url>
