@@ -6,7 +6,7 @@
   <link href="https://blog.suneshone.com/atom.xml" rel="self"/>
   
   <link href="https://blog.suneshone.com/"/>
-  <updated>2023-12-22T09:26:20.478Z</updated>
+  <updated>2023-12-25T02:53:32.123Z</updated>
   <id>https://blog.suneshone.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://blog.suneshone.com/2023/12/22/python%E7%8E%AF%E5%A2%83%E7%AE%A1%E7%90%86/"/>
     <id>https://blog.suneshone.com/2023/12/22/python%E7%8E%AF%E5%A2%83%E7%AE%A1%E7%90%86/</id>
     <published>2023-12-22T01:03:06.000Z</published>
-    <updated>2023-12-22T09:26:20.478Z</updated>
+    <updated>2023-12-25T02:53:32.123Z</updated>
     
-    <content type="html"><![CDATA[<p>使用python编写代码过程中，一般版本升级都会兼容就版本，不过当使用的第三方库版本更新时，还是会偶尔遇到不兼容过去代码的情况，有时候拿到别人的代码，别人的代码确实基于旧版第三方库编写的，由于自己的电脑第三方库版本比较新，新库对旧的接口做了调整，导致无法运行，这样就不得不把自己的第三方库卸载重新安装旧版本的库，有时候为了装一个老点库，会报一些自己难以理解的错误，不得不把python也换成旧版的。总之，我们需要一个python环境管理工具。</p><span id="more"></span><h2 id="相关工具"><a href="#相关工具" class="headerlink" title="相关工具"></a>相关工具</h2><ul><li><a href="https://virtualenv.pypa.io/">virtualenv</a></li><li><a href="https://anaconda.org/anaconda/conda">conda</a> | <a href="https://anaconda.org.cn/">Anaconda中文网</a></li><li><a href="https://python-poetry.org/">poetry</a></li><li><a href="https://pipenv.pypa.io/en/latest/">pipenv</a></li><li><a href="https://docs.python.org/zh-cn/3/library/venv.html">venv</a></li></ul>]]></content>
+    <content type="html"><![CDATA[<p>使用python编写代码过程中，一般版本升级都会兼容就版本，不过当使用的第三方库版本更新时，还是会偶尔遇到不兼容过去代码的情况，有时候拿到别人的代码，别人的代码确实基于旧版第三方库编写的，由于自己的电脑第三方库版本比较新，新库对旧的接口做了调整，导致无法运行，这样就不得不把自己的第三方库卸载重新安装旧版本的库，有时候为了装一个老点库，会报一些自己难以理解的错误，不得不把python也换成旧版的。总之，我们需要一个python环境管理工具。</p><span id="more"></span><p>在使用pycharm工具开发程序的时候，可以在电脑上安装多个版本的python解释器，然后在项目设置中可以指定使用哪个版本的解释器，而且可以针对此项目，通过虚拟环境来安装第三方库，从而来解决令人烦恼的版本冲突问题。</p><p>（写的很简略，以下为各种相关工具官网，可以查看详细指南）</p><h2 id="相关工具"><a href="#相关工具" class="headerlink" title="相关工具"></a>相关工具</h2><ul><li><a href="https://virtualenv.pypa.io/">virtualenv</a></li><li><a href="https://anaconda.org/anaconda/conda">conda</a> | <a href="https://anaconda.org.cn/">Anaconda中文网</a></li><li><a href="https://python-poetry.org/">poetry</a></li><li><a href="https://pipenv.pypa.io/en/latest/">pipenv</a></li><li><a href="https://docs.python.org/zh-cn/3/library/venv.html">venv</a></li></ul>]]></content>
     
     
     <summary type="html">&lt;p&gt;使用python编写代码过程中，一般版本升级都会兼容就版本，不过当使用的第三方库版本更新时，还是会偶尔遇到不兼容过去代码的情况，有时候拿到别人的代码，别人的代码确实基于旧版第三方库编写的，由于自己的电脑第三方库版本比较新，新库对旧的接口做了调整，导致无法运行，这样就不得不把自己的第三方库卸载重新安装旧版本的库，有时候为了装一个老点库，会报一些自己难以理解的错误，不得不把python也换成旧版的。总之，我们需要一个python环境管理工具。&lt;/p&gt;</summary>
